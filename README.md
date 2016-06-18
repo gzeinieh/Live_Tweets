@@ -14,6 +14,9 @@ pip install them
 ### flask 
 
 ### run
-redis-server 
-gunicorn -k gevent live_tweets:app 
+redis-server  
+gunicorn -k gevent live_tweets:app  
+
+
+ 
 
