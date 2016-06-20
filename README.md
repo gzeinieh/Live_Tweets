@@ -17,6 +17,10 @@ pip install them
 redis-server  
 gunicorn -k gevent live_tweets:app  
 
+### screen shot
+
+![Alt text](/screen_shots/Screen_shot_1.png?raw=true "Screen Shot" )
+
 
  
 
